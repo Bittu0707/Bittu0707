@@ -4,7 +4,7 @@
 
 ---
 
-📍 I'm from **Gaya, Bihar** 
+📍 I'm from **Gaya, Bihar** <br>
 🌍 I'm based in **Mohali, India**  
 ⚛️ I love working with **MERN stack** and solving problems through **programming**  
 🚀 I've explored CSS libraries like **Tailwind CSS** and **styled-components** 
