@@ -34,7 +34,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Bittu0707&theme=dark&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bittu0707&theme=dark&hide_border=false&title_color=white&text_color=white&sideNums=black&sideLabels=black&ring=white&fire=black&currStreakLabel=white&currStreakNum=black)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bittu0707&theme=dark&hide_border=false&title_color=white&text_color=white&sideNums=white&sideLabels=white&ring=yellow&fire=yellow&currStreakLabel=yellow&currStreakNum=yellow)
+
 
 
 ---
