@@ -1,9 +1,16 @@
-# 👋 Hi there, I'm Bittu Kumar!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Bittu Kumar!</h1>
+<h4 align="center">I'm a passionate software developer skilled in Java Programming and the MERN Stack. I love experimenting and am always ready to learn new things 😃. I focus on writing clean, elegant, and efficient code ✨.</h4>
 
-📍 From Gaya, Bihar
-🎓 Final-year B.Tech CSE student at Chandigarh Group of Colleges
-🎓 Diploma from Pusa Institute of Technology\
-💻 Passionate about MERN Stack Development | Java | MySQL
+---
+
+📍 I'm from **Gaya, Bihar**
+🌍 I'm based in **Mohali, India**  
+⚛️ I love working with **MERN stack** and solving problems through **programming**  
+🚀 I've explored CSS libraries like **Tailwind CSS** and **styled-components**  
+📧 Reach me at: [bittukr2237686@gmail.com](mailto:bittukr2237686@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/bittu-kumar-651ba8289](https://www.linkedin.com/in/bittu-kumar-651ba8289/)
+
+---
 
 ---
 
