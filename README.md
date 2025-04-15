@@ -32,10 +32,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Bittu0707&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact&title_color=black&text_color=black)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bittu0707&theme=transparent&hide_border=true&show_icons=true&locale=en&title_color=black&text_color=black)
+![](https://github-readme-stats.vercel.app/api?username=Bittu0707&theme=dark&show_icons=true)
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bittu0707&theme=transparent&hide_border=true&title_color=black&text_color=black&sideNums=black&sideLabels=black&ring=black&fire=black&currStreakLabel=white&currStreakNum=black)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bittu0707&theme=dark&hide_border=false&title_color=white&text_color=white&sideNums=black&sideLabels=black&ring=white&fire=black&currStreakLabel=white&currStreakNum=black)
 
 
 ---
