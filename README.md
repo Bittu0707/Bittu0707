@@ -7,8 +7,9 @@
 🌍 I'm based in **Mohali, India**  
 ⚛️ I love working with **MERN stack** and solving problems through **programming**  
 🚀 I've explored CSS libraries like **Tailwind CSS** and **styled-components**  
-📧 Reach me at: [bittukr2237686@gmail.com](mailto:bittukr2237686@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/bittu-kumar-651ba8289](https://www.linkedin.com/in/bittu-kumar-651ba8289/)
+📧 Reach me at: <i>[bittukr2237686@gmail.com](mailto:bittukr2237686@gmail.com)<i><br>
+
+🔗 LinkedIn: <em>[linkedin.com/in/bittu-kumar-651ba8289](https://www.linkedin.com/in/bittu-kumar-651ba8289/)<em>
 
 ---
 
